@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="358" viewBox="0 0 370 358" role="img" aria-label="Aswin terminal identity">
+  <style>
+    .line { fill:#8b949e; font:15px ui-monospace, SFMono-Regular, Menlo, monospace; white-space:pre }
+    @keyframes type { from { opacity:0; transform:translateX(-8px) } to { opacity:1; transform:translateX(0) } }
+  </style>
+  <rect width="370" height="358" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="40" class="line" style="animation:type .3s .05s both">$ whoami</text>
+  <text x="25" y="78" class="line" style="animation:type .3s .20s both">    _    ____  __        _____ _   _</text>
+  <text x="25" y="102" class="line" style="animation:type .3s .32s both">   / \  / ___| \ \      / /_ _| \ | |</text>
+  <text x="25" y="126" class="line" style="animation:type .3s .44s both">  / _ \ \___ \  \ \ /\ / / | ||  \| |</text>
+  <text x="25" y="150" class="line" style="animation:type .3s .56s both"> / ___ \ ___) |  \ V  V /  | || |\  |</text>
+  <text x="25" y="174" class="line" style="animation:type .3s .68s both">/_/   \_\____/    \_/\_/  |___|_| \_|</text>
+  <text x="25" y="230" class="line" style="animation:type .3s .84s both">[ DevOps Engineer ]</text>
+  <text x="25" y="260" class="line" style="animation:type .3s .96s both">Kubernetes · IaC · CI/CD</text>
+  <text x="25" y="290" class="line" style="animation:type .3s 1.08s both">reliability, automated.</text>
+  <text x="25" y="330" class="line" style="animation:type .3s 1.20s both">$ _</text>
+</svg>

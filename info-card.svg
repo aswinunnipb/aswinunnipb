@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="358" viewBox="0 0 490 358" role="img" aria-label="Aswin Unni P B profile">
+  <style>
+    .title { fill:#58a6ff; font:600 16px ui-monospace, SFMono-Regular, Menlo, monospace }
+    .key { fill:#7ee787; font:14px ui-monospace, SFMono-Regular, Menlo, monospace }
+    .colon { fill:#8b949e; font:14px ui-monospace, SFMono-Regular, Menlo, monospace }
+    .value { fill:#c9d1d9; font:14px ui-monospace, SFMono-Regular, Menlo, monospace }
+    @keyframes line { from { opacity:0; transform:translateX(-8px) } to { opacity:1; transform:translateX(0) } }
+  </style>
+  <rect width="490" height="358" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="24" cy="24" r="5" fill="#ff7b72"/><circle cx="42" cy="24" r="5" fill="#d29922"/><circle cx="60" cy="24" r="5" fill="#3fb950"/>
+  <text x="88" y="30" class="title">aswin@github:~$ neofetch</text>
+  <line x1="24" y1="45" x2="466" y2="45" stroke="#30363d"/>
+  <g style="animation:line .35s 0.00s both">
+  <text x="28" y="68" class="key">name</text><text x="176" y="68" class="colon">:</text><text x="192" y="68" class="value">Aswin Unni P B</text>
+</g><g style="animation:line .35s 0.14s both">
+  <text x="28" y="102" class="key">role</text><text x="176" y="102" class="colon">:</text><text x="192" y="102" class="value">Senior DevOps Engineer</text>
+</g><g style="animation:line .35s 0.28s both">
+  <text x="28" y="136" class="key">experience</text><text x="176" y="136" class="colon">:</text><text x="192" y="136" class="value">4+ years · production platforms</text>
+</g><g style="animation:line .35s 0.42s both">
+  <text x="28" y="170" class="key">now</text><text x="176" y="170" class="colon">:</text><text x="192" y="170" class="value">Healthcare cloud-native systems</text>
+</g><g style="animation:line .35s 0.56s both">
+  <text x="28" y="204" class="key">cloud</text><text x="176" y="204" class="colon">:</text><text x="192" y="204" class="value">AWS · GCP · hybrid cloud</text>
+</g><g style="animation:line .35s 0.70s both">
+  <text x="28" y="238" class="key">orchestration</text><text x="176" y="238" class="colon">:</text><text x="192" y="238" class="value">Kubernetes · Helm · Karpenter</text>
+</g><g style="animation:line .35s 0.84s both">
+  <text x="28" y="272" class="key">automation</text><text x="176" y="272" class="colon">:</text><text x="192" y="272" class="value">Terraform · Ansible · CI/CD · GitOps</text>
+</g><g style="animation:line .35s 0.98s both">
+  <text x="28" y="306" class="key">observe</text><text x="176" y="306" class="colon">:</text><text x="192" y="306" class="value">Prometheus · Grafana · CloudWatch</text>
+</g>
+</svg>
