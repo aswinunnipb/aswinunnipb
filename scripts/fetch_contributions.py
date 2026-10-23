@@ -9,7 +9,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-USERNAME = "Kenshiro-me"
+USERNAME = "aswinunnipb"
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "contributions.json"
 
@@ -27,7 +27,7 @@ def streak(days: list[dict[str, object]]) -> int:
 def main() -> None:
     response = requests.get(
         f"https://github.com/users/{USERNAME}/contributions",
-        headers={"User-Agent": "Kenshiro-me-profile-readme"},
+        headers={"User-Agent": "aswinunnipb-profile-readme"},
         timeout=30,
     )
     response.raise_for_status()
